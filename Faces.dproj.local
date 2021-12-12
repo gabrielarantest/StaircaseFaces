@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018-07-25 20:59:30.000.425,=C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\Unit1.pas</Transaction>
+    <Transaction>2018-07-25 21:04:36.000.712,C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\Project1.dproj=C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\Faces.dproj</Transaction>
+    <Transaction>2018-07-25 21:04:58.000.816,C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\Unit1.dfm=C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\Inicio.dfm</Transaction>
+    <Transaction>2018-07-25 21:04:58.000.816,C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\Unit1.pas=C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\Inicio.pas</Transaction>
+    <Transaction>2018-07-25 21:05:11.000.885,C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\Inicio.pas=C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\Main.pas</Transaction>
+    <Transaction>2018-07-25 21:05:11.000.885,C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\Inicio.dfm=C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\Main.dfm</Transaction>
+    <Transaction>2018-07-25 21:30:28.000.601,C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\Main.dfm=C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\ExperimentoRui\Main.dfm</Transaction>
+    <Transaction>2018-07-25 21:30:28.000.601,C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\Main.pas=C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\ExperimentoRui\Main.pas</Transaction>
+    <Transaction>2018-07-25 21:30:34.000.068,C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\Faces.dproj=C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\ExperimentoRui\Faces.dproj</Transaction>
+    <Transaction>2018-08-05 19:26:05.000.825,=C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\ExperimentoRui\Unit1.pas</Transaction>
+    <Transaction>2018-08-05 19:26:23.000.493,C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\ExperimentoRui\Instruções.dfm=C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\ExperimentoRui\Unit1.dfm</Transaction>
+    <Transaction>2018-08-05 19:26:23.000.493,C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\ExperimentoRui\Instruções.pas=C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\ExperimentoRui\Unit1.pas</Transaction>
+    <Transaction>2018-08-05 19:26:29.000.445,C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\ExperimentoRui\Instrucoes.pas=C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\ExperimentoRui\Instruções.pas</Transaction>
+    <Transaction>2018-08-05 19:26:29.000.445,C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\ExperimentoRui\Instrucoes.dfm=C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\ExperimentoRui\Instruções.dfm</Transaction>
+    <Transaction>2018-08-05 20:16:54.000.678,=C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\ExperimentoRui\Unit1.pas</Transaction>
+    <Transaction>2018-08-05 20:38:03.000.016,C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\ExperimentoRui\credits.dfm=C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\ExperimentoRui\Unit1.dfm</Transaction>
+    <Transaction>2018-08-05 20:38:03.000.016,C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\ExperimentoRui\credits.pas=C:\Laboratorio_Gabriel\tecnicoInformatica\Delphi workspace\ExperimentoRui\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
